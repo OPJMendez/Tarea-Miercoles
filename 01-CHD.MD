@@ -13,7 +13,7 @@ siguientes pasos:**
 - **Pluggins**: Si se esta usando un editor de código como visual studio code,
   es posible que se necesite hacer la instalación de ciertas herramientas o
   'pluggins' que nos brindan la capacidad de realizar acciones que el editor de
-  codigo no posee nativamente.
+  código no posee nativamente.
 
   ![](assets/01-Image.png)
 
