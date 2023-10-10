@@ -1,6 +1,6 @@
 # Selección de herramientas de versionamiento
 
-## ¿Qué és una herramiento de versionamiento?
+## ¿Qué es una herramienta de versionamiento?
 
 Hablando puntualmente de desarrollo de software, es un software que permite a
 los desarrolladores gestionar y rastrear las diferentes versiones del código
