@@ -13,17 +13,15 @@ o aplicativo
 
 Exiten varios de estos softwares los cuales son:
 
-- Git
+- **Git**
 
-- Subversion (SVN)
+- **Subversion (SVN)**
 
-- Mercurial
+- **Mercurial**
 
-- Mercurial
+- **TFS (Team Foundation Server)**
 
-- TFS (Team Foundation Server)
-
-entre otros.
+_entre otros._
 
 **La elección de esta herramienta dependera de las necesidades del proyecto.**
 
